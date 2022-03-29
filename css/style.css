@@ -7,10 +7,8 @@ img {
    text-align: center;
 }
 .container {
-    position: absolute;
-    transform: translate(-50%, -50%);
-    top: 40%;
-    right: -60%;
+    top: 20%;
+    right: 40%;
 }
 .glitch, .glow {
     color: #dfbfbf;
